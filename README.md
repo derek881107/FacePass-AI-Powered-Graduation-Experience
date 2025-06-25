@@ -7,20 +7,6 @@ Welcome to FacePass, a computer vision solution designed to modernize and stream
 
 ---
 
-## 📌 Table of Contents
-
-- [Motivation](#motivation)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [System Workflow](#system-workflow)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Privacy & Ethics](#privacy--ethics)
-- [Contributors](#contributors)
-- [License](#license)
-
----
-
 ## 💡 Motivation
 
 Traditional graduation check-in processes are error-prone and stressful:
